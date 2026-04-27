@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/e0/dd/98/e0dd9806ebec5c42280a513003538b5a.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/mari.gameiroo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=94C1E0&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="instagram logo"  />
   </a>
-  <a href="mariana.silveira@edu.senai.br" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=69B0E0&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=A6BDE8&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="microsoft-outlook logo"  />
@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/e0/dd/98/e0dd9806ebec5c42280a513003538b5a.gif"  />
 </div>
 
 ###
