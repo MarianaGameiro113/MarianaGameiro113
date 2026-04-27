@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<p align="left">Olá! Meu nome é Mariana Gameiro, tenho 15 anos e atualmente estou estudando para me formar em DEV. <br>Buscando evoluir constantemente, aprender novas ferramentas e transformar conhecimento em projetos práticos</p>
+<p align="center">Olá! Meu nome é Mariana Gameiro, tenho 15 anos e atualmente estou estudando para me formar em DEV. <br>Buscando evoluir constantemente, aprender novas ferramentas e transformar conhecimento em projetos práticos</p>
 
 ###
 
