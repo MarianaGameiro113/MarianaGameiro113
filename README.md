@@ -37,9 +37,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/MarianaGameiro113/MarianaGameiro113/main/assets/Pinterest%20video%20%231151795673474824015-720p%281%29.gif" />
+  <img height="300" src="https://raw.githubusercontent.com/MarianaGameiro113/MarianaGameiro113/main/Pinterest%20video%20%2312947917676186992-720p.gif" />
 </div>
-
 ###
 
 <div align="center">
