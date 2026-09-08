@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/e0/dd/98/e0dd9806ebec5c42280a513003538b5a.gif" />
+  <img height="200" src="./Pinterest video #1151795673474824015-720p.gif" />
 </div>
 
 ###
