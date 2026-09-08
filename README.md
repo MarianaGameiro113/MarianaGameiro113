@@ -1,7 +1,5 @@
 <div align="center">
-  <video width="500" autoplay loop muted playsinline>
-    <source src="https://raw.githubusercontent.com/MarianaGameiro113/MarianaGameiro113/main/Pinterest%20video%20%2312947917676186992-720p.mp4" type="video/mp4">
-  </video>
+  <img height="300" src="https://raw.githubusercontent.com/MarianaGameiro113/MarianaGameiro113/main/Pinterest%20video%20%2312947917676186992-720p.gif" />
 </div>
 
 ###
