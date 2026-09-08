@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="./Pinterest video #1151795673474824015-720p.gif" />
+  <img height="200" src="./gato.gif" />
 </div>
 
 ###
